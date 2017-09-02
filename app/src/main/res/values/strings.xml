@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Life Calculator</string>
+    <string name="hours">&#xA0; Hours</string>
+    <string name="remagetxt">Remaining Age : &#xA0; </string>
+    <string name="curagetxt">Current Age : &#xA0; </string>
+    <string name="years">&#xA0; Years</string>
+    <string name="daysleft">&#xA0; Days left to do what you Love most !</string>
+    <string name="menu_name_info">Info</string>
+    <string name="info_html_data"></string>
+    <string name="twhole">Time Available in Whole Life</string>
+    <string name="trem">Time Available in Remaining Life</string>
+    <string name="tday">Available Time Per Day</string>
+    <string name="any_other">Any Other</string>
+    <string name="family_relatives_amp_guests"><![CDATA[Family, Relatives & Guests]]></string>
+    <string name="tv_net_amp_entertainment"><![CDATA[TV, Net & Entertainment]]></string>
+    <string name="cooking_eating_cleaning_amp_washing"><![CDATA[Cooking, Eating, Cleaning & Washing]]></string>
+    <string name="work_study_commute_amp_job_school"><![CDATA[Work/Study, Commute & Job/School]]></string>
+    <string name="sleep">Sleep</string>
+    <string name="bhours">0 Hours</string>
+
+</resources>
